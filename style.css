@@ -305,9 +305,25 @@ footer h2{
 
 @media screen and (max-width:415px)
 {
+    .imagine{
+        width: 90%;
+        height: auto;
+        margin: auto;
+        padding: 20px;
+    }
+    .text{
+        width: 90%;
+        margin: auto;
+        font-size: 1.5em;
+    }
+    .titlu{
+        text-align: center;
+        margin: 20px;
+        font-size: 2.3em;
+    }
 
         .homepage h2 {
-            font-size: 3.5rem;
+            font-size: 2.5rem;
         }
         .homepage h3 {
             font-size: 2.5rem;
